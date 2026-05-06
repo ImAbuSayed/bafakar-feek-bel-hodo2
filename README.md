@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bafakar-feek-bel-hodo2/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's Bafakar Feek Bel Hodo2](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
